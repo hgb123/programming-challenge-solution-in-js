@@ -1,6 +1,6 @@
 /*
  *  Graph
- *  Topo sort
+ *  Topological sort
  */
 
 #include<bits/stdc++.h>
