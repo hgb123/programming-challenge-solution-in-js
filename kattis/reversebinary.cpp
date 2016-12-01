@@ -1,6 +1,7 @@
 /*
- * Use library
+ * Built-in library
  */
+
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
