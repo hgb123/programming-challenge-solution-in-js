@@ -1,6 +1,7 @@
 /*
  * Backtracking by column
  */
+
 #include<bits/stdc++.h>
 #define N 12
 using namespace std;
