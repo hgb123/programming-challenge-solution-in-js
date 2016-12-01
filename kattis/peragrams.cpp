@@ -1,4 +1,5 @@
 /*
+ * Ad-hoc
  * Only one char has odd number of occurences in Palindrome 
  */
  
