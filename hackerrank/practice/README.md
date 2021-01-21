@@ -4,6 +4,24 @@
 
 ### Warmup
 
+[Solve Me First](algorithms/warmup/solve-me-first.c)
+
+[Simple Array Sum](algorithms/warmup/simple-array-sum.js)
+
+[A Very Big Sum](algorithms/warmup/a-very-big-sum.c)
+
+[Diagonal Difference](algorithms/warmup/diagonal-difference.c)
+
+[Plus Minus](algorithms/warmup/plus-minus.c)
+
+[Staircase](algorithms/warmup/staircase.c)
+
+[Mini-Max Sum](algorithms/warmup/mini-max-sum.js)
+
+[Birthday Cake Candles](algorithms/warmup/birthday-cake-candles.js)
+
+[Time Conversion](algorithms/warmup/time-conversion.js)
+
 ### Implementation
 
 [Subarray Division](algorithms/implementation/the-birthday-bar.js)
@@ -49,6 +67,16 @@
 ### Greedy
 
 ### Dynamic Programming
+
+[The Coin Change Problem](algorithms/dynamic-programming/coin-change.c++)
+
+[Sam and substrings](algorithms/dynamic-programming/sam-and-substrings.js)
+
+[Fibonacci Modified](algorithms/dynamic-programming/fibonacci-modified.java)
+
+[The Maximum Subarray](algorithms/dynamic-programming/maxsubarray.c++)
+
+[The Longest Increasing Subsequence](algorithms/dynamic-programming/longest-increasing-subsequent.c++)
 
 ### Constructive Algorithms
 
