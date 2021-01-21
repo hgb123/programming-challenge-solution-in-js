@@ -26,6 +26,20 @@
 
 ### Strings
 
+[CamelCase](algorithms/strings/camelcase.js)
+
+[Caesar Cipher](algorithms/strings/caesar-cipher-1.js)
+
+[HackerRank in a String!](algorithms/strings/hackerrank-in-a-string.js)
+
+[Pangrams](algorithms/strings/pangrams.js)
+
+[Palindrome Index](algorithms/strings/palindrome-index.js)
+
+[Game of Thrones - I](algorithms/strings/game-of-thrones.js)
+
+[Two Strings](algorithms/strings/two-strings.js)
+
 ### Sorting
 
 ### Search
