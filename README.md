@@ -2,7 +2,7 @@
 
 > Never let your coding skills atrophy
 
-My solutions to programming challenges on various sites.
+My solutions (me implementing others' solutions) to programming challenges on various sites.
 
 Solutions are mostly written in JS.
 
