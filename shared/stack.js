@@ -1,5 +1,5 @@
 function Stack() {
-  stack = [];
+  const stack = [];
 
   this.push = function (el) {
     stack.push(el);
@@ -9,13 +9,11 @@ function Stack() {
     return stack.pop();
   };
 
-  return {
-    ...this,
-    get size() {
-      return stack.length;
-    },
-    get head() {
-      return stack[this.size - 1];
-    },
+  this.peek = function () {
+    return stack[stack.length - 1];
+  };
+
+  this.isEmpty = function () {
+    return stack.length === 0;
   };
 }
