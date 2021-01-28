@@ -7,3 +7,5 @@ My solutions (me implementing others' solutions) to programming challenges on va
 Solutions are mostly written in JS.
 
 Solving problems matters, not language, but I feel comfortable to implement in JS for now.
+
+PRs for more readability are welcome.

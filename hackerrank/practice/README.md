@@ -60,11 +60,15 @@
 
 ### Sorting
 
+[Fraudulent Activity Notifications](algorithms/sorting/fraudulent-activity-notifications.js)
+
 ### Search
 
 ### Graph Theory
 
 ### Greedy
+
+[Mark and Toys](algorithms/greedy/mark-and-toys.js)
 
 ### Dynamic Programming
 
