@@ -44,6 +44,8 @@
 
 ### Strings
 
+[Alternating Characters](algorithms/strings/alternating-characters.js)
+
 [CamelCase](algorithms/strings/camelcase.js)
 
 [Caesar Cipher](algorithms/strings/caesar-cipher-1.js)
@@ -57,6 +59,8 @@
 [Game of Thrones - I](algorithms/strings/game-of-thrones.js)
 
 [Two Strings](algorithms/strings/two-strings.js)
+
+[Sherlock and the Valid String](algorithms/strings/sherlock-and-valid-string.js)
 
 ### Sorting
 
