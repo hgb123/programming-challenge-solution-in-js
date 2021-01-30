@@ -68,6 +68,8 @@
 
 ### Search
 
+[Pairs](algorithms/search/pairs.js)
+
 ### Graph Theory
 
 ### Greedy
