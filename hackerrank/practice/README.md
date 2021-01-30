@@ -76,6 +76,8 @@
 
 [Mark and Toys](algorithms/greedy/mark-and-toys.js)
 
+[Minimum Absolute Difference in an Array](algorithms/greedy/minimum-absolute-difference-in-an-array.js)
+
 ### Dynamic Programming
 
 [The Coin Change Problem](algorithms/dynamic-programming/coin-change.c++)
