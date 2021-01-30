@@ -104,6 +104,12 @@
 
 ### Linked Lists
 
+[Insert a node at a specific position in a linked list](data-structures/linked-lists/insert-a-node-at-a-specific-position-in-a-linked-list.js)
+
+[Inserting a Node Into a Sorted Doubly Linked List](data-structures/linked-lists/insert-a-node-into-a-sorted-doubly-linked-list.js)
+
+[Reverse a doubly linked list](data-structures/linked-lists/reverse-a-doubly-linked-list.js)
+
 ### Trees
 
 ### Balanced Trees
