@@ -14,10 +14,7 @@ process.stdin.on("data", (inputStdin) => {
 });
 
 process.stdin.on("end", function () {
-  inputString = inputString
-    .replace(/\s*$/, "")
-    .split("\n")
-    .map((str) => str.replace(/\s*$/, ""));
+  inputString = inputString.split(/\r?\n/);
 
   main();
 });
