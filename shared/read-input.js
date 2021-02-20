@@ -26,6 +26,14 @@ function readLine() {
   return inputString[currentLine++];
 }
 
+function readLineRawArray() {
+  return readLine().split(" ");
+}
+
+function readLineNumberArray() {
+  return readLine().split(" ").map(Number);
+}
+
 function main() {
   // process.stdout.write(inputString); // must be in string
   // console.log(inputString);
