@@ -18,8 +18,8 @@ Tags: tree, recursion
  */
 var averageOfLevels = function (root) {
   const average = (arr) => arr.reduce((acc, el) => acc + el, 0) / arr.length;
+  const valuesAtDepth = [];
 
-  let valuesAtDepth = [];
   const recursion = function (node, depth = 0) {
     if (!node) {
       return;
