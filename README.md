@@ -1,4 +1,6 @@
-# Programming Challenges Solutions in JS
+# Programming Challenges Solutions in JS (moved to [honingjs.com](https://honingjs.com/))
+
+**_Updates: the project has moved to [honingjs.com](https://honingjs.com/)_**
 
 > Never let your coding skills atrophy
 
